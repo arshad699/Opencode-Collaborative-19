@@ -14,7 +14,7 @@ Like us on [Facebook](https://www.facebook.com/opencodeiiita/)
 
 [OpenCode](https://opencodeiiita.github.io/) is a month long open source program organised by [GeekHaven IIIT Allahabad](https://geekhaven.iiita.ac.in). OpenCode attracts talent from all over the world. People contribute to various open source projects. We welcome everyone to experience the awesome event and win exciting prizes.
 
-## Requirements:
+## Prerequisite:
 
 - GitHub Account
 - Git
@@ -46,7 +46,7 @@ IMPORTANT:
 - The images should be of square resolution.
 - If you do not want to include social media accounts, leave the field empty `"facebook":""`.
 
-## Adding yourselves to participant section
+## Adding yourself to participant section
 
 To add yourself to student section you need to open the file `participants.json` and please maintain the following format EXACTLY (replacing values where indicated):
 
@@ -104,7 +104,7 @@ We will follow the official GitHub documentation for setting up the repo.
 * Add relevant commit message in the pr, mention issue number and live link to comment while making pr.
 * **Note**: In case you feel any issue during setting up the project or using git, don't hesitate to ask us on our slack channel. We will help you out.
 
-## Claiming up an issue
+## Ask us
 
 - To claim an issue please comment on the issue as `@opencodebot claim` and the bot will assign you the issue.
 
